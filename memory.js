@@ -44,10 +44,6 @@ function losuj() {
         //document.getElementById('k'+i).addEventListener("click", function() {proba(i);});
     }
 }
-//dajemy restart
-$('#rest').click(function () {
-    window.location.reload()
-});
 
 var oneVisible = false;
 var turn = 0;
