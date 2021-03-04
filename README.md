@@ -1,2 +1,11 @@
 # pamieciowka
 kwiatki
+
+jQuery.block/.unblock
+
+Copyright (c) 2011-2013 Martijn W. van der Lee
+Licensed under the MIT.
+
+An effective and practical screen blocker for jQuery with delay, timeout and an easy API.
+
+Check the demo page for an example and online documentation.
